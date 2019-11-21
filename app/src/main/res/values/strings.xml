@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Last Story Character Guide</string>
+    <string name="name_char">nama character</string>
+    <string name="description">deskripsi</string>
+    <string name="skill">kemampuan</string>
+    <string name="weapon">senjata</string>
+    <string name="gender">jenis kelamin</string>
+    <string name="species">jenis</string>
+    <string name="about">About</string>
+</resources>
